@@ -21,12 +21,17 @@ Este projeto implementa uma classe `CarrinhoDeCompras` com métodos para adicion
 ### Calcular o Total
 - Método: `calcularTotal()`
 - Retorna o preço total de todos os produtos no carrinho.
+- ![image](https://github.com/user-attachments/assets/84bfaaf8-3dd1-4d57-8bc0-ddc57eb7bd41)
+
 
 ### Listar Produtos
 - Método: `listarProdutos()`
 - Retorna uma lista com todos os produtos no carrinho, onde cada produto é representado como um objeto com as propriedades `nome`, `preco` e `quantidade`.
 
 ## Cenários de Teste
+
+![image](https://github.com/user-attachments/assets/8b0be288-3771-429d-8737-57400a35c7dc)
+
 
 Os testes unitários cobrem os seguintes cenários:
 
